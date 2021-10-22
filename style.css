@@ -1,0 +1,57 @@
+/* Partie reservee au CSS */
+h1 {
+ color :#d6169d;
+ font-size : 50px;
+ font-family :Arial, Helvetica, sans-serif;
+}
+
+.photochat {
+    border-radius: 50%;
+}
+
+h2 {
+    color : blueviolet;
+    font-size : 50px;
+    font-family :Georgia, 'Times New Roman', Times, serif;
+}
+
+h3 {
+    color : blueviolet;
+    font-size: 50px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.btn-pink {
+    border-radius: 4px;
+    color: white;
+    padding: 15px 20px;
+    background-color: rgb(173, 10, 91);
+    font-size: 20px;
+}
+
+.container {
+    width: 700px;
+    margin : 40px auto;
+}
+
+.hello {
+    text-align: center;
+    background-color: turquoise;
+    border-radius: 5px;
+    padding: 40px;
+    margin: 20px 0px;
+}
+
+a {
+    text-decoration: none;
+    color : white
+}
+
+ul { 
+    display: inline-block; 
+    text-align: left; 
+}
+
+#space p {
+    margin-bottom: 40px;
+}
